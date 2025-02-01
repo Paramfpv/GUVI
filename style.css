@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+    color: white;
+}
+.container{
+    margin-top: 5%;
+    width: 65%;
+    height: 500px;
+}
+.left{
+    position: absolute;
+
+    width: 32%;
+    height: 500px; 
+}
+.right{
+    position: absolute;
+ 
+    width: 32%;
+    height:500px;
+    left: 50%;
+}
+.green{
+    color: green;
+}
+p{
+    font-size: 25px;
+    margin: 2%;
+}
+img{
+      width: 510px;
+      padding-top: 1%;
+}
